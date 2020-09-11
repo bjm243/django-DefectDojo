@@ -159,3 +159,7 @@ our [sponsorship information](SPONSORING.md) or email greg.anderson@owasp.org
 ## License
 
 DefectDojo is licensed under the [BSD Simplified license](LICENSE.md)
+
+## Sonatype
+
+[![DepShield Badge](https://depshield.sonatype.org/badges/owner/repository/depshield.svg)](https://depshield.github.io)
